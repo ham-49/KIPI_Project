@@ -1,14 +1,12 @@
-    <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1466a7,100:80c8ff&height=220&text=한국특허정보원%20리뉴얼&animation=fadeIn&fontColor=ffffff&fontSize=60" />
-    </div>
-    
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1466a7,100:80c8ff&height=150&text=한국특허정보원%20리뉴얼&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+</div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 목차 </h2>
     <div style="text-align: left;" "text-align: left;"> 
     <ol>
         <li> 프로젝트 정보</li>
         <li> 개발 환경 </li>
-        <li> 역할 분담 </li>
         <li> 페이지 구성 소개 및 주요 기능 </li>
         <li> 참고 자료 </li>
     </ol>
@@ -45,28 +43,6 @@
             <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
             <h4>✍사용 API</h4>
             <p>Open Weather API(https://openweathermap.org/api/)</p>
-        </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 역할 분담 </h2> 
-        <div style="text-align: left;" "text-align: left;"> 
-        <div style="text-align: left;">
-            <h3 style="color: #282d33;"> 📢 팀원 & 역할 분담 </h3>
-        <h4>팀장 : 문현아</h4>
-            <ul>
-                <li>메인 페이지 : 날씨API, 오늘날짜표시 , program, review, footet</li>
-                <li>서브 서브페이지 : porgram (설명, 체험, 교육)</li>
-            </ul>
-        <h4>팀원 : 이지호</h4>
-            <ul>
-                <li>메인 페이지 : header, main-visual, sea creatures</li>
-                <li>서브 서브페이지 : sea creatures, ticket</li>
-            </ul>
-        <h4>팀원 : 조예진</h4>
-            <ul>
-                <li>메인 페이지 : event, news, directions</li>
-                <li>서브 서브페이지 : event, news</li>
-            </ul>
         </div>
     </div>
     <div style="text-align: left;">
@@ -156,19 +132,6 @@
                 <li>요금 종류 태그 클릭 시 관련 정보 표시 및 반응형 구간에서 레이아웃 변경</li>
             </ul>
         </div>
-            <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 개발 환경 </h2> 
-        <div style="text-align: left;" "text-align: left;"> 
-        <div style="text-align: left;">
-            <h4>✍사용 기술</h4>
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-            <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
-            <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-            <h4>✍사용 API</h4>
-            <p>Open Weather API (https://openweathermap.org/api/)</p>
-        </div>
-    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 참고자료 </h2> 
         <div style="text-align: left;" "text-align: left;"> 
