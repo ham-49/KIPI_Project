@@ -1,6 +1,6 @@
 /* ############ Include Files ############*/
 /* ############ header include  ############*/
-fetch('../html/header.html')
+fetch('/KIPI_Project/html/header.html')
 .then(response => response.text())
 .then(data => {
   document.querySelector('.header-include').innerHTML = data;
@@ -80,7 +80,7 @@ fetch('../html/header.html')
 
 
 /* ############ footer include  ############*/
-fetch('../html/footer.html')
+fetch('/KIPI_Project/html/footer.html')
 .then(response => response.text())
 .then(data => {
   document.querySelector('.footer-include').innerHTML = data;
