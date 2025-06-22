@@ -238,7 +238,7 @@ a {
     margin-left: auto;
   }
   header .header_inner .toputil_control .toputil_control_bottom .btns .site_map a.active {
-    background: url(/KIPI_Project/image/_headerxmark.svg) no-repeat center;
+    background: url(/KIPI_Project/image/headerxmark.svg) no-repeat center;
   }
   header .header_inner .toputil_control .toputil_control_bottom .btns .site_map a.active img {
     opacity: 0;
