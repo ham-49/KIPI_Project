@@ -246,6 +246,7 @@ main section{
 }
 .content_wrap .content .pagination ol li a{
   display: block;
+  width: 100%; height: 100%;
 }
 .content_wrap .content .pagination ol li a.active{
   background-color: var(--hover-color);
