@@ -494,7 +494,7 @@ a {
             flex-direction: row-reverse;
   }
   .movement .movement_swiper .swiper-wrapper .swiper-slide.slide01 .content img {
-    width: 150px;
+    width: 300px;
     height: 100px;
     -o-object-fit: contain;
        object-fit: contain;
@@ -785,7 +785,6 @@ a {
     width: 90%;
   }
   .business .inner .content_warp {
-    border: 1px solid red;
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
