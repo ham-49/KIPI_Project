@@ -368,7 +368,7 @@
               margin: 10px 0; gap: 10px;
               flex-direction: row-reverse;
               img{
-                width: 150px; height: 100px;
+                width: 300px; height: 100px;
                 object-fit: contain;
               }
               .text_wrap{
@@ -647,7 +647,6 @@
     .inner{
       width: 90%;
       .content_warp{
-        border: 1px solid red;
         align-items: center;
         display: flex; flex-direction: column;
         .business_content{
