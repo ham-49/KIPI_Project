@@ -237,8 +237,11 @@ a {
     position: relative;
     margin-left: auto;
   }
+  header .header_inner .toputil_control .toputil_control_bottom .btns .site_map a{
+    margin-left: 10px;
+  }
   header .header_inner .toputil_control .toputil_control_bottom .btns .site_map a.active {
-    background: url(../image/_headerxmark.svg) no-repeat center;
+    background: url(/KIPI-Project/image/_headerxmark.svg) no-repeat center;
   }
   header .header_inner .toputil_control .toputil_control_bottom .btns .site_map a.active img {
     opacity: 0;
