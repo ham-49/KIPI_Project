@@ -11,6 +11,9 @@
     --custom-btn:#3C9FBC;
     --main-transition: .4s;
   }
+  .title_wrap .bottom .bottom_text span{
+    font-size: 11px;
+  }
   .title_wrap{
     margin-top: 100px;
   }
@@ -30,6 +33,7 @@
   }
   .content_wrap .content table th, .content_wrap .content table td{
     border-bottom: none;
+    font-size: 10px;
   }
   .content_wrap .content table th, .content_wrap .content table > tbody > tr{
     border-bottom: 1px solid #eee;
@@ -45,22 +49,49 @@
     width: 100%; height: 100%;
     display: flex;
     align-items: center; justify-content: center;
+    font-size: 12px;
   }
   .content_wrap .content .managers{
     margin: auto;
     width: 100%;
+    font-size: 12px;
   }
-
-    .civil-wrap tbody td:nth-child(1){
-      overflow: hidden;
-      white-space: nowrap;
-      text-overflow: ellipsis;
-    }
+  .content_wrap .content .managers .manager{
+    margin: 0 5px;
+  }
+  .content_wrap .content .managers .manager span{
+    margin: 0 5px;
+    font-size: 10px;
+  }
+  .content_wrap .content table td{
+    padding: 1rem .3rem;
+  }
+  .QnA_wrap .QnA_menu ul li a{
+    font-size: 14px;
+    padding: 10px;
+  }
+  .QnA_wrap .QnA_content .content_item span{
+    font-size: 14px;
+  }
+  .QnA_wrap .QnA_content .content_item h4{
+    font-size: 12px;
+  }
+  .QnA_wrap .QnA_content .content_item .answer p{
+    padding: 1rem 3rem;
+  }
+  .QnA_wrap .QnA_content .content_item p{
+    font-size: 12px;
+  }
+  .civil-wrap tbody td:nth-child(1){
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
     .civil-wrap tbody td:nth-child(2){
     width: 55%;
     margin: auto;
   }
   .civil-wrap tbody td img{
-    width: 60px;
+    width: 40px;
   }
 }
