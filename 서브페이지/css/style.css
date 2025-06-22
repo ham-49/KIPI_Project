@@ -207,6 +207,9 @@ main section{
   padding: 1.2rem 1rem;
   text-align: center;
 }
+.content_wrap .content table td img{
+  width: 100px;
+}
 .content_wrap .content table td:nth-child(2){
   text-align: left;
 }
