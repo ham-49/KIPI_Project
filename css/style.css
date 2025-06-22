@@ -400,6 +400,7 @@ header .header_inner .toputil_control .toputil_control_bottom .btns .site_map {
 }
 header .header_inner .toputil_control .toputil_control_bottom .btns .site_map a {
   display: block;
+  margin-left: 30px;
 }
 header .header_inner .toputil_control .toputil_control_bottom .btns .site_map a img {
   width: 50px;
