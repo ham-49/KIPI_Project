@@ -647,8 +647,7 @@
     .inner{
       width: 90%;
       .content_warp{
-        border: 1px solid red;
-        display: flex; flex-direction: column;
+        display: flex; flex-direction: column; align-items: center;
         .business_content{
           margin-bottom: 5rem;
           .text_box{
