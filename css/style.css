@@ -380,7 +380,7 @@ header .header_inner .toputil_control .toputil_control_bottom .btns .search form
   right: 5%;
   width: 40px;
   height: 40px;
-  background: url(../image/search.svg) center no-repeat;
+  background: url(/KIPI-Projectimage/search.svg) center no-repeat;
   border: none;
   cursor: pointer;
 }
@@ -419,10 +419,10 @@ header .header_inner .toputil_control .toputil_control_bottom .btns .site_map a 
   height: 700px;
 }
 .main_visual .visual_swiper .swiper-wrapper .swiper-slide.slide01 {
-  background: url(../image/main_visual01.png);
+  background: url(/KIPI-Projectimage/main_visual01.png);
 }
 .main_visual .visual_swiper .swiper-wrapper .swiper-slide.slide02 {
-  background: url(../image/main_visual02.png);
+  background: url(/KIPI-Projectimage/main_visual02.png);
 }
 .main_visual .visual_swiper .swiper-wrapper .swiper-slide.slide02 .text_wrap {
   color: #ccc;
@@ -565,7 +565,7 @@ header .header_inner .toputil_control .toputil_control_bottom .btns .site_map a 
 .link_items .icons .icon .img {
   width: 70px;
   height: 95px;
-  background: url(../image/main_icons\(75_100\).png) no-repeat;
+  background: url(/KIPI-Projectimage/main_icons\(75_100\).png) no-repeat;
   background-position: 2px 2px;
   /* 이미지 개별 적용 */
 }
@@ -813,14 +813,14 @@ header .header_inner .toputil_control .toputil_control_bottom .btns .site_map a 
           align-items: center;
 }
 .movement .cusrom_control .pagination-movement .swiper-pagination-bullet {
-  background: url(../image/logo-CI.svg) no-repeat center;
+  background: url(/KIPI-Projectimage/logo-CI.svg) no-repeat center;
   background-size: 60%;
   width: 50px;
   height: 50px;
   opacity: 0.5;
 }
 .movement .cusrom_control .pagination-movement .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  background: url(../image/logo-CI-active.svg) no-repeat center;
+  background: url(/KIPI-Projectimage/logo-CI-active.svg) no-repeat center;
   background-size: 60%;
   opacity: 1;
 }
@@ -974,43 +974,43 @@ header .header_inner .toputil_control .toputil_control_bottom .btns .site_map a 
   z-index: -1;
 }
 .promotion .promotion_swiper .swiper-wrapper .swiper-slide.slide01 {
-  background: url(../image/poster01.jpg) no-repeat;
+  background: url(/KIPI-Projectimage/poster01.jpg) no-repeat;
   background-size: cover;
   -o-object-fit: cover;
      object-fit: cover;
 }
 .promotion .promotion_swiper .swiper-wrapper .swiper-slide.slide01 {
-  background: url(../image/poster01.jpg) no-repeat;
+  background: url(/KIPI-Projectimage/poster01.jpg) no-repeat;
   background-size: cover;
   -o-object-fit: cover;
      object-fit: cover;
 }
 .promotion .promotion_swiper .swiper-wrapper .swiper-slide.slide02 {
-  background: url(../image/poster02.png) no-repeat;
+  background: url(/KIPI-Projectimage/poster02.png) no-repeat;
   background-size: cover;
   -o-object-fit: cover;
      object-fit: cover;
 }
 .promotion .promotion_swiper .swiper-wrapper .swiper-slide.slide03 {
-  background: url(../image/poster03.jpg) no-repeat;
+  background: url(/KIPI-Projectimage/poster03.jpg) no-repeat;
   background-size: cover;
   -o-object-fit: cover;
      object-fit: cover;
 }
 .promotion .promotion_swiper .swiper-wrapper .swiper-slide.slide04 {
-  background: url(../image/poster04.png) no-repeat;
+  background: url(/KIPI-Projectimage/poster04.png) no-repeat;
   background-size: cover;
   -o-object-fit: cover;
      object-fit: cover;
 }
 .promotion .promotion_swiper .swiper-wrapper .swiper-slide.slide05 {
-  background: url(../image/poster05.png) no-repeat;
+  background: url(/KIPI-Projectimage/poster05.png) no-repeat;
   background-size: cover;
   -o-object-fit: cover;
      object-fit: cover;
 }
 .promotion .promotion_swiper .swiper-wrapper .swiper-slide.slide06 {
-  background: url(../image/poster06.png) no-repeat;
+  background: url(/KIPI-Projectimage/poster06.png) no-repeat;
   background-size: cover;
   -o-object-fit: cover;
      object-fit: cover;
@@ -1195,11 +1195,11 @@ header .header_inner .toputil_control .toputil_control_bottom .btns .site_map a 
   height: 100%;
 }
 .information .information_wrap .board .swiper .swiper-wrapper .swiper-slide.slide01 {
-  background: url(../image/board01.png) no-repeat center;
+  background: url(/KIPI-Projectimage/board01.png) no-repeat center;
   background-size: 70%;
 }
 .information .information_wrap .board .swiper .swiper-wrapper .swiper-slide.slide02 {
-  background: url(../image/board_02.png) no-repeat center;
+  background: url(/KIPI-Projectimage/board_02.png) no-repeat center;
   background-size: 70%;
 }
 
@@ -1300,22 +1300,22 @@ header .header_inner .toputil_control .toputil_control_bottom .btns .site_map a 
 }
 .business .inner .content_warp .business_content:nth-child(1) {
   grid-area: 2/1/4/2;
-  background: url(../image/business01.jpg) center no-repeat;
+  background: url(/KIPI-Projectimage/business01.jpg) center no-repeat;
   background-size: 200%;
 }
 .business .inner .content_warp .business_content:nth-child(2) {
   grid-area: 1/2/3/3;
-  background: url(../image/business02.jpg) center no-repeat;
+  background: url(/KIPI-Projectimage/business02.jpg) center no-repeat;
   background-size: 200%;
 }
 .business .inner .content_warp .business_content:nth-child(3) {
   grid-area: 2/3/4/4;
-  background: url(../image/business03.jpg) center no-repeat;
+  background: url(/KIPI-Projectimage/business03.jpg) center no-repeat;
   background-size: 200%;
 }
 .business .inner .content_warp .business_content:nth-child(4) {
   grid-area: 1/4/3/5;
-  background: url(../image/business04.jpg) center no-repeat;
+  background: url(/KIPI-Projectimage/business04.jpg) center no-repeat;
   background-size: 200%;
 }
 
