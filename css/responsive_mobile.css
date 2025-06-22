@@ -785,7 +785,6 @@ a {
     width: 90%;
   }
   .business .inner .content_warp {
-    border: 1px solid red;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
