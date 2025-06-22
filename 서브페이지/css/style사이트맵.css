@@ -4,7 +4,7 @@
   position: relative;
 }
 .header .bg{
-  background: url(../../image/sub_title_bg02.png) center no-repeat;
+  background: url(/KIPI_Project/image/sub_title_bg02.png) center no-repeat;
   width: 100%; height: 340px;
   max-width: 1920px; margin: auto;
 }
@@ -58,4 +58,7 @@
 .sub_wrap .sub_nav .sub_content .sub_menu ul{
   padding: 1rem;
   line-height: 2;
+}
+.sub_wrap .sub_nav .sub_content .sub_menu ul li{
+  margin: 20px 0;
 }
