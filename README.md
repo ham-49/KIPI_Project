@@ -109,6 +109,36 @@
             </ul>
             <img src="https://github.com/user-attachments/assets/41532347-6b10-4570-9185-26f81a77f43b" alt="주요사업" width="700">
             <img src="https://github.com/user-attachments/assets/0eade5eb-f798-4337-ae2f-40668fd7087c" alt="주요사업-반응형">
+<h5>유관 기업, 푸터</h5>
+            <ul>
+                <li> Swiper를 이용해 제작 했으며, 이미지가 변경되도록 구현함</li>
+            </ul>
+            <img src="https://github.com/user-attachments/assets/d14f052e-7a97-45b2-8c44-560693013c36" alt="주요사업" width="700">
+            <img src="https://github.com/user-attachments/assets/92220ec5-92ef-4225-b60d-82306c9c1f83" alt="유관기업, 푸터">
+
+<h3 style="color: #282d33;"> 📢 서브 페이지 Before & After </h3>
+<table>
+    <tr>
+    <td>Before</td>
+    <td>After</td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/9a9f1e54-2604-485a-831b-26524cb3202b" alt="원본 이미지" width="200">
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/c5808543-5a49-4491-9552-e04539c805b8" alt="리뉴얼 이미지" width="200">
+    </td>
+  </tr>
+</table>
+<h3 style="color: #282d33;"> 서브페이지 - 세부 </h3>
+<h5>입찰정보, 자주묻는 질문</h5>
+            <ul>
+                <li>입찰정보 : 스크립트를 이용하여, 10개씩 보여주도록 구현</li>
+                <li>자주묻는질문 : 스크립트를 이용하여, 콘텐츠를 클릭하면 숨겨진 내용을 보여주도록 구현</li>
+            </ul>
+            <img src="https://github.com/user-attachments/assets/bae32fbd-917a-4c6d-8bb4-4b9aa874b223" alt="입찰정보" width="700">
+            <img src="https://github.com/user-attachments/assets/8b89e74c-10f7-4962-b550-ee3d9fd0ddc5" alt="자주묻는질문" width="700">
         </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 참고자료 </h2> 
