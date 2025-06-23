@@ -66,6 +66,12 @@
   .content_wrap .content table td{
     padding: 1rem .3rem;
   }
+  .content_wrap .content .pagination i{
+    display: none;
+  }
+  .content_wrap .content .pagination ol li{
+    width: 40px; height: 40px;
+  }
   .QnA_wrap .QnA_menu ul li a{
     font-size: 14px;
     padding: 10px;
