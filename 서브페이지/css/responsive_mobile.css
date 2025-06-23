@@ -101,7 +101,7 @@
     width: 55%;
     margin: auto;
   }
-  .civil-wrap tbody td img{
+  .content_wrap .content table td img{
     width: 40px;
   }
 }
