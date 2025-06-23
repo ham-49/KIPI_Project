@@ -37,107 +37,54 @@
         <div style="text-align: left;">
             <h4>✍사용 기술</h4>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
             <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
             <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-            <h4>✍사용 API</h4>
-            <p>Open Weather API(https://openweathermap.org/api/)</p>
+            <h4>✍사용 라이브러리</h4>
+            <ul>
+                <li>Swiper</li>
+                <li>AOS</li>
+            </ul>
         </div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 페이지 구성 소개 및 주요 기능 </h2> 
         <div style="text-align: left;" "text-align: left;"> 
-            <h3 style="color: #282d33;"> 📢 구성 : 메인페이지, 서브페이지 (7페이지 구성) </h3>
+            <h3 style="color: #282d33;"> 📢 메인 페이지 Before & After </h3>
         <div style="text-align: left;">
-             <h3 style="color: #282d33;"> 메인페이지 전체 </h3>
-            <table>
+
+<table>
+    <tr>
+    <td>Before</td>
+    <td>After</td>
+  </tr>
   <tr>
     <td valign="top">
-      <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/메인페이지%20-%20기본.JPG?raw=true" alt="메인 이미지" width="200">
+      <img src="https://github.com/user-attachments/assets/26884e02-76b6-442a-89c7-bac8ac22da42" alt="원본 이미지" width="200">
     </td>
     <td valign="top">
-      <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/메인페이지%20-%20테블릿.JPG?raw=true" alt="테블릿 이미지" width="200">
-    </td>
-    <td>
-      <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/메인페이지%20-%20모바일.JPG?raw=true" alt="모바일 이미지" width="200">
+      <img src="https://github.com/user-attachments/assets/3b796195-0468-4ccf-8545-b35d9ded8ae9" alt="리뉴얼 이미지" width="200">
     </td>
   </tr>
 </table>
-            <h3 style="color: #282d33;"> 메인페이지 - 세부 </h3>
-            <h5>Header + main-visual</h5>
-            <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/메인비주얼,헤더.gif?raw=true" alt="헤더,메인비주얼" width="700">
+<h3 style="color: #282d33;"> 메인페이지 - 세부 </h3>
+<h5>Header + main-visual</h5>
             <ul>
-                <li>온도, 오늘 날짜 실시간 반영</li>
-                <li>마우스 hover 시 이벤트, 서브 페이지로 이동</li>
-                <li>모바일 반응형 구간에서 변경되는 서브 메뉴 레이아웃</li>
+                <li> Header : 마우스 올리면 서브 메뉴가 내려오도록 구성</li>
+                <li> Header : 반응형 구간에서는 클릭 시 서브 메뉴가 화면에 나오도록 구성</li>
+                <li> Main-Visual : 자동 슬라이드 형태로 구현하여 일정 시간이 지나면 슬라이드가 이동되도록 구현함</li>
             </ul>
-            <h5>Main - program</h5>
-            <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/프로그램.gif?raw=true" alt="프로그램" width="700">
-            <ul>
-                <li>마우스 hover 시 동영상 재생 및 서브 페이지 이동 가능</li>
-            </ul>
-            <h5>Main - event</h5>
-            <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/이벤트.gif?raw=true" alt="이벤트" width="700">
-            <ul>
-                <li> 썸네일 사진 클릭 시 관련 자료로 이동, 서브페이지 이동 가능</li>
-            </ul>
-            <h5>Main - sea creatures</h5>
-            <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/전시생물.gif?raw=true" alt="전시생물" width="700">
-            <ul>
-                <li> 지도 위치 아이콘 클릭 시 연관된 생물 정보 및 서브페이지 이동 가능 </li>
-            </ul>
-            <h5>Main - news</h5>
-            <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/뉴스.gif?raw=true" alt="뉴스" width="700">
-            <ul>
-                <li> 데스크탑에서는 자동 재생, 반응형 구간에서는 리스트 형태로 표시되며 서브 페이지 이동 가능 </li>
-            </ul>
-            <h5>Main - directions</h5>
-            <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/위치%20안내.gif?raw=true" alt="프로그램" width="700">
-            <ul>
-                <li> 구글 지도 위치 정보 반영 </li>
-            </ul>
-            <h5>Main - review</h5>
-            <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/리뷰, 푸터.gif?raw=true" alt="리뷰, 푸터" width="700">
-            <ul>
-                <li> 데스크탑에서는 자동 재생, 반응형 구간에서는 드래그 기능을 사용하여 리뷰 확인이 가능하고 클릭 시 리뷰 내용 확인 가능 </li>
-            </ul>
-            <h3 style="color: #282d33;"> 서브 페이지 - 세부 </h3>
-            <h5>sub - sea creatures(전시생물소개)</h5>
-            <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/서브페이지%20전시생물%20소개.gif?raw=true" alt="전시생물 소개" width="700">
-            <ul>
-                <li>층별 전시생물 구별 및 마우스 hover 시 동물 요약 소개 정보 표시</li>
-            </ul>
-            <h5>sub - event(이벤트)</h5>
-            <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/서브페이지%20이벤트.gif?raw=true" alt="이벤트" width="700">
-            <ul>
-                <li>진행중인 이벤트, 종료된 이벤트표시 및 자세히 보기 hover시 이벤트 효과</li>
-            </ul>
-            <h5>sub - program(설명, 체험, 교육 프로그램)</h5>
-            <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/서브페이지%20프로그램.gif?raw=true" alt="프로그램" width="700">
-            <ul>
-                <li>개인예약 : 버튼 클릭 시 팝업창 및 이전, 빈날짜 입력 시 경고창 발생</li>
-                <li>단체예약 : 버튼 클릭 시 팝업창 및 안내정보 표시</li>
-                <li>상세정보 : 숨겨진 상세정보 표시</li>
-            </ul>
-            <h5>sub - news(공지사항)</h5>
-            <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/서브페이지%20뉴스.gif?raw=true" alt="뉴스" width="700">
-            <ul>
-                <li>리스트 hover 시 색상 변경</li>
-                <li>페이지 구분 및 한페이지 혹은 처음, 끝페이지 이동</li>
-            </ul>
-            <h5>sub - ticket(온라인 예매)</h5>
-            <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/서브페이지%20티켓.gif?raw=true" alt="티켓" width="700">
-            <ul>
-                <li>요금 종류 태그 클릭 시 관련 정보 표시 및 반응형 구간에서 레이아웃 변경</li>
-            </ul>
+            <img src="https://github.com/user-attachments/assets/4ce1c1e7-f5e0-4ce0-8a7e-7284f275a255" alt="헤더" width="700">
+            <img src="https://github.com/user-attachments/assets/87aec7d6-2f91-4f4d-ba31-c3f67247a462" alt="헤더" width="700">
+            <img src="https://github.com/user-attachments/assets/df6cbf51-ccff-4b7d-8c27-6283192d2940" alt="메인비주얼" width="700">
         </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 참고자료 </h2> 
         <div style="text-align: left;" "text-align: left;"> 
         <div style="text-align: left;">
             <h3 style="color: #282d33;"> 📢 figma 시안 </h3>
-            figma 시안 (https://www.figma.com/file/cYRyXXyj2RU8S13r8s38OI/Plan-A?node-id=90-2) <br>
-            기획서 (https://docs.google.com/presentation/d/1vTG0JJkd84qfz4xTqQhuSxXUBTXuoIO8ciO7UXdLdVc/edit?usp=sharing)
+            figma 시안 (https://www.figma.com/design/6VzlaNIbrZn0dT5HyDkdPq/%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80-%EB%A6%AC%EB%89%B4%EC%96%BC_%EB%AC%B8%ED%98%84%EC%95%84%EC%B5%9C%EC%A2%85?node-id=132-217&m=dev&t=09B7VSwXXe80i9aO-1) <br>
+            기획서 ()
         </div>
     </div>
     </div>
